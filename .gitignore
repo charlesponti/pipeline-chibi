@@ -1,0 +1,21 @@
+# API keys — never commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated output (large, local only)
+clips/
+clips_kling/
+review/
+review_kling/
+manifest.json
+*.mp4
+*.png
+!mask-closeup.png
+!tattoos-closeup.png
+
+# macOS
+.DS_Store

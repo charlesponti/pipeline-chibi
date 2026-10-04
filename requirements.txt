@@ -1,0 +1,4 @@
+google-genai>=2.0
+python-dotenv>=1.0
+fal-client>=0.4
+requests>=2.0
